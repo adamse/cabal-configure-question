@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo ENV
+env
+echo
+echo ARGS
+echo "$@"
